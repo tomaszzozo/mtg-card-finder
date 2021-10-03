@@ -1,0 +1,18 @@
+{
+    "blank" : {
+        "name": "",
+        "img": "",
+        "text": ""
+    },
+    "smoke" : {
+        "name": "Smoke test",
+        "img": "https://cdn-www.tiempodev.com/wp-content/uploads/2019/06/23163010/how-smoke-testing-works-1024x546.png",
+        "text": "Smoke test"
+    },
+    "dupa" : {
+        "name": "A proszę Cię bardzo",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfi4AEPjSCsPTeUzeCRy9Wh-vLXV2zJ0syUrf12nmqGkcJxsZTGxLOMCQe4sO5WOkZgwQ&usqp=CAU",
+        "text": "Ale z Ciebie śmieszek"
+    }
+    
+}
