@@ -44,7 +44,7 @@ class Body extends Component {
     );
   }
   handleClick(input) {
-    input = input.trim();
+    input = input.trim().toLowerCase();
     if (input === "") {
       return;
     } else if (!(input in this.state.cards)) {

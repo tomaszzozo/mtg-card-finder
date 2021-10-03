@@ -14,6 +14,7 @@
         "img": "https://ithardware.pl/artykuly/max/17038_1.png",
         "text": "Hau hau"
     },
+
     "056264" : {
         "name" : "Kasmina, Enigmatic Mentor",
         "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=460983&type=card",
@@ -32,7 +33,7 @@
     "scry": {
         "name": "Scry X",
         "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=476305&type=card",
-        "text" : "Podejrzyj X wierzchnich kart"
+        "text" : "Podejrzyj X wierzchnich kart. Zdecyduj, które z nich zostają na górze talii, a które idą na spód talii."
     },
     "spell" : {
         "name" : "Spell",
@@ -51,8 +52,101 @@
     },
     "044280" : {
         "name" : "Air Elemental",
-        "img" : "",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=466798&type=card",
         "text" : "Flying."
+    },
+    "073280" : {
+        "name" : "Sage's Row Denizen",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=466827&type=card",
+        "text" : "Zawsze kiedy inna niebieska jednostka wchodzi na pole bitwy pod twoją kontrolą, wybrany gracz kładzie dwie górne karty ze swojej talii na cmentarz."
+    },
+    "075280" : {
+        "name" : "Sleep Paralysis",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=466829&type=card",
+        "text" : "Zaczaruj istotę.\nKiedy ta karta wchodzi na pole bitwy, tapujesz właśnie zaczarowaną istotę.\nZaczarowana istota nie untapuje się w trakcie fazy untap jej właściciela."
+    },
+    "053269" : {
+        "name" : "Merfolk Secretkeeper",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=473015&type=card",
+        "text" : "Adventure: wskaż gracza. Przekłada on 4 wierzchnie karty ze swojej talii na cmentarz i wygnaj tę kartę. Możesz potem rzucić to zaklęcie z talii wygnania.\nIstota: brak zdolności."
+    },
+    "082254": {
+        "name" : "Witness of Tomorrows",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=476333&type=card",
+        "text" : "Flying.\n3xdowolna mana + 1xniebieska mana: Scry 1."
+    },
+    "060275": {
+        "name" : "Vortex Runner",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=513537&type=card",
+        "text" : "Dopóki kontrolujesz 8 lub więcej lądów, ta karta posiada licznik +1/+0 i nie może być blokowana."
+    },
+    "075264": {
+        "name" : "Wall of Runes",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=485408&type=card",
+        "text" : "Defender.\nKiedy ta karta wchodzi na pole bitwy Scry 1."
+    },
+    "039274": {
+        "name" : "Aegis Turtle",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=489295&type=card",
+        "text" : ""
+    },
+    "049303": {
+        "name" : "Lose Focus",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=522125&type=card",
+        "text" : "Replicate 1xniebieska mana.\nZkontruj wybrane zaklęcie chyba że jego właściciel zapłaci 2xmana dowolnego koloru."
+    },
+    "replicate": {
+        "name" : "Replicate X",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=522125&type=card",
+        "text" : "Kiedy zagrywasz kartę z replicate, możesz zapłacić X za każde zkopiowanie tej karty. Możesz wybrać nowy cel dla każdej z kopii."
+    },
+    "061254": {
+        "name" : "Riptide Turtle",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=476312&type=card",
+        "text" : "Flash.\nDefender."
+    },
+    "flash": {
+        "name" : "Flash",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=476312&type=card",
+        "text" : "Flash daje zaklęcie takie same możliwości jak instant, ale odnosi się do istot."
+    },
+    "defender": {
+        "name" : "Defender",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=476312&type=card",
+        "text" : "Jednostka z Defender nie może atakować."
+    },
+    "074280": {
+        "name" : "Scholar of the Ages",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=497613&type=card",
+        "text" : "Kiedy ta karta wchodzi na pole bitwy, przywróć do dwóch kart typu Sorcery i/lub Instant ze swojego cmentarza do ręki."
+    },
+    "instant": {
+        "name" : "Instant",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=476305&type=card",
+        "text" : "Zaklęcia typu Instant możesz rzucać zawsze kiedy masz priorytet."
+    },
+    "sorcery": {
+        "name" : "Sorcery",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=460998&type=card",
+        "text" : "Sorcery to najprostszy typ zaklęcia. Ma on swoje opisane efekty i po ich wejściu w życie karta odchodzi na cmentarz."
+    },
+    "087274": {
+        "name" : "Ugin's Insight",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402078&type=card",
+        "text" : "Scry X, gdzie X to najwyższy koszt many wśród kart na polu bitwy które kontrolujesz. Dobierz trzy karty."
+    },
+    "059264": {
+        "name" : "Illusory Gains",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394599&type=card",
+        "text" : "Zaczaruj jednostkę.\nKontrolujesz zaczarowaną właśnie jednostkę.\nZa każdym razem, kiedy przeciwnik zagrywa nową istotę, doczep tę kartę do tej istoty i strać kontrolę nad poprzednio kontrolowaną dzięki tej karcie istotą."
+    },
+    "071264":{
+        "name" : "Tamiyo's Epiphany",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=460998&type=card",
+        "text" : "Scry 4, następnie dobierz dwie karty."
     }
+
+
     
+
 }
