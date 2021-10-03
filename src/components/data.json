@@ -140,13 +140,161 @@
         "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394599&type=card",
         "text" : "Zaczaruj jednostkę.\nKontrolujesz zaczarowaną właśnie jednostkę.\nZa każdym razem, kiedy przeciwnik zagrywa nową istotę, doczep tę kartę do tej istoty i strać kontrolę nad poprzednio kontrolowaną dzięki tej karcie istotą."
     },
-    "071264":{
+    "071264": {
         "name" : "Tamiyo's Epiphany",
         "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=460998&type=card",
         "text" : "Scry 4, następnie dobierz dwie karty."
-    }
-
+    },
 
     
-
+    "235264": {
+        "name" : "Samut, Tyrant Smasher",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=461162&type=card",
+        "text" : "Istoty które kontrolujesz mają Haste.\n-1: Wybrana istota zyskuje +2/+1 i Haste do końca tury. Scry 1."
+    },
+    "haste": {
+        "name" : "Haste",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=461162&type=card",
+        "text" : "Istota z Haste nie cierpi na Summoning sickness i może być tapowana od razu po przywołaniu do gry."
+    },
+    "161280": {
+        "name" : "Tectonic Rift",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=466915&type=card",
+        "text" : "Zniszcz wybrany ląd. Istoty bez Flying nie mogą w tej turze blokować."
+    },
+    "186280": {
+        "name" : "Overcome",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=466940&type=card",
+        "text" : "Istoty, które kontrolujesz, zyskują +2/+2 i Trample do końca tury."
+    },
+    "trample": {
+        "name" : "Trample",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=466940&type=card",
+        "text" : "Podczas ataku jeżeli istota z trample zabije wszystkie broniące się przed nią jednostki to nadliczbowe obrażenia przechodzą na atakowanego planeswalkera."
+    },
+    "planeswalker": {
+        "name" : "Planeswalker",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=461162&type=card",
+        "text" : "Rodzaj karty. Gracze też są zaliczani jako planeswalkerzy."
+    },
+    "203259": {
+        "name" : "Savage Smash",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=457347&type=card",
+        "text" : "Wybrana istota, którą kontrolujesz, dostaje +2/+2 do końca tury. Następnie natychmiast walczy ona z wybraną jednostką, której nie kontrolujesz (nie powoduje to jej tapowania)."
+    },
+    "163280": {
+        "name" : "Uncaged Fury",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=466917&type=card",
+        "text" : "Wybrana jednostka dostaje +1/+1 i Double strike do końca rundy."
+    },
+    "double strike": {
+        "name" : "Double strike",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=466917&type=card",
+        "text" : "Jednostka z Double strike najpierw wykonuje First strike a potem normalnie walczy podczas fazy ataku."
+    },
+    "first strike": {
+        "name" : "First strike",
+        "img" : "",
+        "text" : "Jednostka z First strike podczas fazy ataku zadaje obrażenia jako pierwsza zamiast zadawać obrażenia jednocześnie z jednostką broniącą się."
+    },
+    "162264": {
+        "name" : "Giant Growth",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=534748&type=card",
+        "text" : "Wybrana jednostka dostaje +3/+3 do końca tury."
+    },
+    "176264": {
+        "name" : "Snarespinner",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=485530&type=card",
+        "text" : "Reach.\nKiedy ta karta blokuje jednostkę z Flying dostaje +2/+0 do końca tury."
+    },
+    "reach": {
+        "name" : "Reach",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=485530&type=card",
+        "text" : "Jednostka z Reach może blokować stworzenia z Flying."
+    },
+    "150274": {
+        "name" : "Excavation Mole",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=479670&type=card",
+        "text" : "Trample.\nKiedy ta karta wchodzi na pole bitwy, połóź trzy karty ze swojej talii na cmentarz."
+    },
+    "148269": {
+        "name" : "Weaselback Redcap",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=473110&type=card",
+        "text" : "1xmana dowolnego koloru + 1xczerwona mana: ta karta dostaje +2/+0 do końca tury."
+    },
+    "155254": {
+        "name" : "Stampede Rider",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=476406&type=card",
+        "text" : "Trample.\nNa początku każdej walki, jeżeli kontrolujesz istotę o sile ataku 4 lub większej, ta karta zyskuje +1/+1 do końca tury."
+    },
+    "217259": {
+        "name" : "Rubble Slinger",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=457361&type=card",
+        "text" : "Reach."
+    },
+    "179264": {
+        "name" : "Thundering Ceratok",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=461106&type=card",
+        "text" : "Trample.\nKiedy ta karta wchodzi na pole bitwy, inne istoty które kontrolujesz zyskują Trample do końca tury."
+    },
+    "173259": {
+        "name" : "Frenzied Arynx",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=457317&type=card",
+        "text" : "Riot.\nTrample.\n4xdowolna mana + 1xczerwona mana + 1xzielona mana: ta karta zyskuje +3/+0 do końca tury."
+    },
+    "riot": {
+        "name" : "Riot",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=457317&type=card",
+        "text" : "Istota z Riot wchodzi na pole bitwy z wybraną przez Ciebie cechą: Haste lub +1/+1."
+    },
+    "229274": {
+        "name" : "Proud Wildbonder",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=479749&type=card",
+        "text" : "Trample.\nIstoty, które kontrolujesz, dostają umiejętność: 'Podczas ataku możesz wszystkie obrażenia zadane przez tę istotę przenieść bezpośrednio na planeswalkera zamiast na obrońcę'."
+    },
+    "157280": {
+        "name" : "Ripscale Predator",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=497716&type=card",
+        "text" : "Menace."
+    },
+    "menace": {
+        "name" : "Menace",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=497716&type=card",
+        "text" : "Stworzenie z Menace nie może być zablokowane, chyba że przez dwie lub więcej istot."
+    },
+    "128303": {
+        "name" : "Gargadon",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=522204&type=card",
+        "text" : "Trample.\nSuspend 4- 1xdowolna mana + 1xczerwona mana."
+    },
+    "suspend": {
+        "name" : "Suspend X",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=522204&type=card",
+        "text" : "Zamiast zagrywać tę kartę z ręki, możesz zapłacić X many i wygnać ją z X znacznikami czasu. Na początku każdej fazy Upkeep, usuń jeden znacznik czasu. Kiedy ostatni z nich zostanie usunięty, zagraj tę jednostkę za darmo. Zyskuje ona pośpiech."
+    },
+    "115274": {
+        "name" : "Ferocious Tigorilla",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=479635&type=card",
+        "text" : "Ta karta wchodzi na pole bitwy z wybraną przez Ciebie umiejętnością: Trample lub Menace."
+    },
+    "141275": {
+        "name" : "Reckless Amplimancer",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=513618&type=card",
+        "text" : "4xdowolna mana + 1xzielona mana: podwój siłę ataku i życie tej karty do końca tury."
+    },
+    "167303": {
+        "name" : "Jade Avenger",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=522243&type=card",
+        "text" : "Bushido 2."
+    },
+    "bushido": {
+        "name" : "Bushido X",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=522243&type=card",
+        "text" : "Kiedy ta istota blokuje lub jest blokowana zyskuje +X/+X do końca tury."
+    },
+    "170303": {
+        "name" : "Rift Sower",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=522243&type=card",
+        "text" : "Tap: Dodaj jedną manę dowolnego koloru do swojej puli na tę turę.\nSuspend 2- 1xzielona mana."
+    }
 }
