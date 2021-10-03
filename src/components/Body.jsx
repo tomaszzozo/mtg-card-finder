@@ -40,8 +40,11 @@ class Body extends Component {
     );
   }
   handleClick(input) {
-    console.log(this.state.expand);
+    input = input.trim();
     if (input === "") {
+      return;
+    } else if (!(input in this.state.cards)) {
+      alert('Nie znaleziono karty "' + input + '"!');
       return;
     }
     this.setState({

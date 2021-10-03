@@ -10,6 +10,7 @@ class Card extends Component {
       <div>
         <h2>{this.props.header}</h2>
         <img src={this.props.image} alt=""></img>
+        <h3>Zdolności</h3>
         <p>{this.props.text}</p>
       </div>
     );

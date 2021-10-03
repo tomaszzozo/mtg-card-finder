@@ -13,6 +13,16 @@
         "name": "A proszę Cię bardzo",
         "img": "https://ithardware.pl/artykuly/max/17038_1.png",
         "text": "Hau hau"
+    },
+    "test" : {
+        "name" : "test",
+        "img" : "test",
+        "text" : "test"
+    },
+    "056/264" : {
+        "name" : "Kasmina, Enigmatic Mentor",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=460983&type=card",
+        "text" : "Zaklęcia (spells) które rzuca twój przeciwnik i które za cel obierają jakąś istotę lub planeswalkera kosztują go o 2 więcej dowolnej many.\n-2: Stwórz niebieski token Czarodzieja 2/2. Dobierz kartę, następnie odrzuć kartę."
     }
     
 }
