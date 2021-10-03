@@ -14,15 +14,45 @@
         "img": "https://ithardware.pl/artykuly/max/17038_1.png",
         "text": "Hau hau"
     },
-    "test" : {
-        "name" : "test",
-        "img" : "test",
-        "text" : "test"
-    },
-    "056/264" : {
+    "056264" : {
         "name" : "Kasmina, Enigmatic Mentor",
         "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=460983&type=card",
         "text" : "Zaklęcia (spells) które rzuca twój przeciwnik i które za cel obierają jakąś istotę lub planeswalkera kosztują go o 2 więcej dowolnej many.\n-2: Stwórz niebieski token Czarodzieja 2/2. Dobierz kartę, następnie odrzuć kartę."
+    },
+    "081280" : {
+        "name" : "Yarok's Wavecrasher",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=466835&type=card",
+        "text" : "Kiedy ta karta wchodzi na pole bitwy, zwróć inną istotę którą kontrolujesz do ręki jej właściciela."
+    },
+    "054254": {
+        "name" : "Memory Drain",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=476305&type=card",
+        "text" : "Zkontruj wybrane zaklęcie (spell). Scry 2."
+    },
+    "scry": {
+        "name": "Scry X",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=476305&type=card",
+        "text" : "Podejrzyj X wierzchnich kart"
+    },
+    "spell" : {
+        "name" : "Spell",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=476305&type=card",
+        "text" : "Każda karta zanim zostanie zagrana (zanim jej efekty wejdą w życie) jest spellem."
+    },
+    "079280" : {
+        "name" : "Warden of Evos Isle",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=497626&type=card",
+        "text": "Flying. Istoty z flying kosztują Cię 1 dowolnej many mniej."
+    },
+    "flying" : {
+        "name" : "Flying",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=497626&type=card",
+        "text" : "Stworzenia z Flying latają i mogą być blokowane tylko przez stworzenia z Flying lub Reach."
+    },
+    "044280" : {
+        "name" : "Air Elemental",
+        "img" : "",
+        "text" : "Flying."
     }
     
 }

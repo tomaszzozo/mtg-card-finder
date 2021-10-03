@@ -21,10 +21,14 @@ class Body extends Component {
     return (
       <div>
         <h1>Tłumacz kart MTG</h1>
-        <p>Wpisz kod karty z lewego dolnego rogu</p>
-        <input id="searchBox" placeholder="001/999" type="text"></input>
+        <p>
+          Wpisz kod karty z lewego dolnego rogu lub umiejętność po angielsku z
+          małej litery bez kosztów many oraz innych liczb
+        </p>
+        <input id="searchBox" placeholder="Wpisz coś :)" type="text"></input>
         <br></br>
         <input
+          id="search"
           type="button"
           value="Szukaj"
           onClick={() =>
@@ -51,6 +55,16 @@ class Body extends Component {
       searchRequest: input,
     });
     this.forceUpdate();
+  }
+  componentDidMount() {
+    document
+      .getElementById("searchBox")
+      .addEventListener("keyup", function (event) {
+        event.preventDefault();
+        if (event.key === "Enter") {
+          document.getElementById("search").click();
+        }
+      });
   }
 }
 
