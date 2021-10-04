@@ -4,17 +4,6 @@
         "img": "",
         "text": ""
     },
-    "smoke" : {
-        "name": "Smoke test",
-        "img": "https://cdn-www.tiempodev.com/wp-content/uploads/2019/06/23163010/how-smoke-testing-works-1024x546.png",
-        "text": "Smoke test"
-    },
-    "pieseł" : {
-        "name": "A proszę Cię bardzo",
-        "img": "https://ithardware.pl/artykuly/max/17038_1.png",
-        "text": "Hau hau"
-    },
-
     "056264" : {
         "name" : "Kasmina, Enigmatic Mentor",
         "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=460983&type=card",
@@ -312,5 +301,90 @@
         "name" : "Pillardrop Warden",
         "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=513589&type=card",
         "text" : "Reach.\n2xdowolna mana + tap + poświęć tę kartę: Przywróć wybrany Instant lub Sorcery ze swojego grobowiska do swojej ręki. Aktywuj tę umiejętność tylko jako Sorcery."
-    }
+    },
+    "106275": {
+        "name" : "Heated Debate",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=513583&type=card",
+        "text" : "To zaklęcie nie może być zkontrowane.\nTo zaklęcie zadaje 4 obrażenia wybranej istocie lub planeswalkerowi."
+    },
+    "160280": {
+        "name" : "Shock",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=517594&type=card",
+        "text" : "To zaklęcie zadaje 2 obrażenia dowolnemu celowi."
+    },
+    "140254": {
+        "name" : "Incendiary Oracle",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=476391&type=card",
+        "text" : "1xdowolna mana + 1xczerwona mana: ta karta zyskuje +1/+0 do końca tury.\nJeżeli isota, która otrzymała obrażenia od tej karty, umarłaby w tej samej turze zamiast na cmentarz idzie na Exile."
+    },
+    "exile": {
+        "name" : "Incendiary Oracle",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=476391&type=card",
+        "text" : "Exile to wygnanie. Jest to osobna talia kart obok cmentarza."
+    },
+    "131303": {
+        "name" : "Gouged Zealot",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=522207&type=card",
+        "text" : "Reach.\nDelirium."
+    },
+    "delirium": {
+        "name" : "Delirium",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=522207&type=card",
+        "text" : "Kiedy karta z Delirium atakuje, jeżeli na cmentarzu są 4 lub więcej rodzaje kart, ta karta zadaje 1 obrażenie za każdą jednostkę broniącą się którą kontroluje przeciwnik."
+    },
+    "135303": {
+        "name" : "Mine Collapse",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?type=card&multiverseid=522211",
+        "text" : "Jeżeli jest twoja trua, możesz poświęcić Góry zamiast płacić koszt tej karty.\nTa karta zadaje 5 obrażeń wybranej istocie lub planeswalkerowi."
+    },
+    "143254": {
+        "name" : "Irreverent Revelers",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=476394&type=card",
+        "text" : "Kiedy ta karta wchodzi na pole bitwy, wybierz jedno:\n* zniszcz wybrany artefakt\n*ta karta zyskuje Haste do końca tury"
+    },
+    "116259": {
+        "name" : "Smelt-Ward Minotaur",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=452866&type=card",
+        "text" : "Za każdym razem kiedy zagrasz Instant lub Sorcery, wybrana istota kontrolowana przez przeciwnika nie może blokować w tej turze."
+    },
+    "117259": {
+        "name" : "Spear Spewer",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=457261&type=card",
+        "text" : "Defender.\nTap: ta karta zadaje 1 obrażenie każdemu z graczy."
+    },
+    "120264": {
+        "name" : "Chandra's Pyrohelix",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=461047&type=card",
+        "text" : "Ta karta zadaje 2 obrażenia rodzielone dowolnie wg Ciebie między dwa cele."
+    },
+    "240274": {
+        "name" : "Sleeper Dart",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=479760&type=card",
+        "text" : "Kiedy ta karta wchodzi na pole bitwy, dobierz kartę.\nTap + poświęć tę kartę: wybrana istota nie untapuje się w fazie untap przeciwnika w następnej turze."
+    },
+    "140274": {
+        "name" : "Weaponize the Monsters",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=479660&type=card",
+        "text" : "2xdwolona mana + poświęć istotę: ta karta zadaje 2 obrażenia dowolnemu celowi."
+    },
+    "136264": {
+        "name" : "Jaya's Greeting",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=461063&type=card",
+        "text" : "Ta karta zadaje 3 obrażenia wybranej istocie. Scry 1."
+    },
+    "142254": {
+        "name" : "Iroas's Blessing",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=476393&type=card",
+        "text" : "Zaczaruj istotę, którą kontrolujesz.\nKiedy ta karta wchodzi na pole bitwy, zadaje 4 obrażenia wybranej istocie lub planeswalkerowi przeciwnika.\nZaczarowana jednostka otrzymuje +1/+1."
+    },
+    "100259": {
+        "name" : "Feral Maaka",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=457244&type=card",
+        "text" : ""
+    },
+    "111275": {
+        "name" : "Pigment Storm",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=513588&type=card",
+        "text" : "Ta karta zadaje 5 obrażeń wybranej istocie. Nadliczbowe obrażenia są zadawane właścicielowi tej istoty."
+    }  
 }
