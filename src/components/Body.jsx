@@ -1,6 +1,7 @@
 import { Component } from "react";
 import Card from "./Card";
 import data from "./data.json";
+import History from "./History";
 
 class Body extends Component {
   constructor(props) {
@@ -8,6 +9,7 @@ class Body extends Component {
     this.state = {
       cards: JSON.parse(JSON.stringify(data)),
       searchRequest: "blank",
+      history: [],
     };
     if (!(this.state.searchRequest in this.state.cards)) {
       alert(
@@ -35,11 +37,23 @@ class Body extends Component {
             this.handleClick(document.getElementById("searchBox").value)
           }
         ></input>
+
         <Card
           header={this.state.cards[this.state.searchRequest].name}
           image={this.state.cards[this.state.searchRequest].img}
           text={this.state.cards[this.state.searchRequest].text}
         ></Card>
+
+        <br></br>
+
+        <input
+          id="clearHistoryBtn"
+          type="button"
+          value="Wyczyść historię"
+          onClick={() => this.clearHistory()}
+        />
+
+        <History data={this.state.history}></History>
       </div>
     );
   }
@@ -51,10 +65,15 @@ class Body extends Component {
       alert('Nie znaleziono karty "' + input + '"!');
       return;
     }
-    this.setState({
-      searchRequest: input,
-    });
-    this.forceUpdate();
+    this.setState(
+      {
+        searchRequest: input,
+        history: this.state.history.includes(input)
+          ? this.state.history
+          : this.state.history.concat(input),
+      },
+      this.forceUpdate
+    );
   }
   componentDidMount() {
     document
@@ -65,6 +84,14 @@ class Body extends Component {
           document.getElementById("search").click();
         }
       });
+  }
+  clearHistory() {
+    this.setState(
+      {
+        history: [],
+      },
+      this.forceUpdate
+    );
   }
 }
 

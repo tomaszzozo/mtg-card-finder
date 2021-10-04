@@ -108,7 +108,7 @@
     "flash": {
         "name" : "Flash",
         "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=476312&type=card",
-        "text" : "Flash daje zaklęcie takie same możliwości jak instant, ale odnosi się do istot."
+        "text" : "Flash daje zaklęciu takie same możliwości jak instant, ale odnosi się do istot."
     },
     "defender": {
         "name" : "Defender",
@@ -296,5 +296,21 @@
         "name" : "Rift Sower",
         "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=522246&type=card",
         "text" : "Tap: Dodaj jedną manę dowolnego koloru do swojej puli na tę turę.\nSuspend 2- 1xzielona mana."
+    },
+
+    "135264": {
+        "name" : "Jaya, Venerated Firemage",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=461062&type=card",
+        "text" : "Jeżeli inna czerwona karta którą kontrolujesz zadałaby obrażenia przeciwnikowi lub jego kartom, zadaj tyle obrażeń +1.\n-2: zadaj 2 obrażenia dowolnemu celowi."
+    },
+    "159280": {
+        "name" : "Scorch Spitter",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=466913&type=card",
+        "text" : "Kiedy ta karta atakuje zadaje 1 obrażenie planeswalkerowi którego atakuje."
+    },
+    "112275": {
+        "name" : "Pillardrop Warden",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=513589&type=card",
+        "text" : "Reach.\n2xdowolna mana + tap + poświęć tę kartę: Przywróć wybrany Instant lub Sorcery ze swojego grobowiska do swojej ręki. Aktywuj tę umiejętność tylko jako Sorcery."
     }
 }
