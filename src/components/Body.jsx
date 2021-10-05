@@ -26,12 +26,12 @@ class Body extends Component {
   render() {
     return (
       <div>
-        <h1>Tłumacz kart MTG</h1>
-        <p>
-          Wpisz kod karty z lewego dolnego rogu lub umiejętność po angielsku z
-          małej litery bez kosztów many oraz innych liczb
-        </p>
-        <input id={searchBoxId} placeholder="Wpisz coś :)" type="text"></input>
+        <h1>MTG assistant</h1>
+        <input
+          id={searchBoxId}
+          placeholder="Kod lub zdolność karty"
+          type="text"
+        ></input>
         <br></br>
         <input
           id={searchBtnId}

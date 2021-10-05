@@ -79,7 +79,7 @@ class NumericButtons extends Component {
   handleClick(number) {
     if (number === "delete") {
       document.getElementById(this.props.searchBoxId).value = "";
-    } else if (number == "backspace") {
+    } else if (number === "backspace") {
       document.getElementById(this.props.searchBoxId).value = document
         .getElementById(this.props.searchBoxId)
         .value.substring(
