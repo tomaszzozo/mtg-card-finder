@@ -60,14 +60,35 @@ class NumericButtons extends Component {
         <br></br>
         <input
           type="button"
+          value="del"
+          onClick={() => this.handleClick("delete")}
+        ></input>
+        <input
+          type="button"
           value="0"
           onClick={() => this.handleClick("0")}
+        ></input>
+        <input
+          type="button"
+          value="⌫"
+          onClick={() => this.handleClick("backspace")}
         ></input>
       </div>
     );
   }
   handleClick(number) {
-    document.getElementById(this.props.searchBoxId).value += number;
+    if (number === "delete") {
+      document.getElementById(this.props.searchBoxId).value = "";
+    } else if (number == "backspace") {
+      document.getElementById(this.props.searchBoxId).value = document
+        .getElementById(this.props.searchBoxId)
+        .value.substring(
+          0,
+          document.getElementById(this.props.searchBoxId).value.length - 1
+        );
+    } else {
+      document.getElementById(this.props.searchBoxId).value += number;
+    }
   }
 }
 

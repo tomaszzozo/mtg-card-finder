@@ -4,10 +4,7 @@ import { Component } from "react";
 class History extends Component {
   constructor(props) {
     super(props);
-    this.state = {
-      btnId: "search",
-      inputFieldId: "searchBox",
-    };
+    this.state = {};
   }
   render() {
     return (
@@ -18,8 +15,8 @@ class History extends Component {
     );
   }
   handleClick(item) {
-    document.getElementById(this.state.inputFieldId).value = item;
-    document.getElementById(this.state.btnId).click();
+    document.getElementById(this.props.inputFieldId).value = item;
+    document.getElementById(this.props.btnId).click();
   }
   getItems() {
     return this.props.data.map((item) => (

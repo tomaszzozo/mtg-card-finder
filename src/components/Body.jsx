@@ -4,6 +4,9 @@ import data from "./data.json";
 import History from "./History";
 import NumericButtons from "./NumericButtons";
 
+const searchBoxId = "searchBox";
+const searchBtnId = "searchBtn";
+
 class Body extends Component {
   constructor(props) {
     super(props);
@@ -11,8 +14,6 @@ class Body extends Component {
       cards: JSON.parse(JSON.stringify(data)),
       searchRequest: "blank",
       history: [],
-      searchBoxId: "searchBox",
-      searchBtnId: "searchBtn",
     };
     if (!(this.state.searchRequest in this.state.cards)) {
       alert(
@@ -30,23 +31,19 @@ class Body extends Component {
           Wpisz kod karty z lewego dolnego rogu lub umiejętność po angielsku z
           małej litery bez kosztów many oraz innych liczb
         </p>
-        <input
-          id={this.state.searchBoxId}
-          placeholder="Wpisz coś :)"
-          type="text"
-        ></input>
+        <input id={searchBoxId} placeholder="Wpisz coś :)" type="text"></input>
         <br></br>
         <input
-          id={this.state.searchBtnId}
+          id={searchBtnId}
           type="button"
           value="Szukaj"
           onClick={() =>
-            this.handleClick(document.getElementById("searchBox").value)
+            this.handleClick(document.getElementById(searchBoxId).value)
           }
         ></input>
         <br></br>
         <br></br>
-        <NumericButtons searchBoxId={this.state.searchBoxId}></NumericButtons>
+        <NumericButtons searchBoxId={searchBoxId}></NumericButtons>
 
         <Card
           header={this.state.cards[this.state.searchRequest].name}
@@ -63,12 +60,16 @@ class Body extends Component {
           onClick={() => this.clearHistory()}
         />
 
-        <History data={this.state.history}></History>
+        <History
+          data={this.state.history}
+          inputFieldId={searchBoxId}
+          btnId={searchBtnId}
+        ></History>
       </div>
     );
   }
   handleClick(input) {
-    document.getElementById(this.state.searchBoxId).value = "";
+    document.getElementById(searchBoxId).value = "";
     input = input.trim().toLowerCase();
     if (input === "") {
       return;
@@ -88,11 +89,11 @@ class Body extends Component {
   }
   componentDidMount() {
     document
-      .getElementById(this.state.searchBoxId)
+      .getElementById(searchBoxId)
       .addEventListener("keyup", function (event) {
         event.preventDefault();
         if (event.key === "Enter") {
-          document.getElementById(this.state.searchBtnId).click();
+          document.getElementById(searchBtnId).click();
         }
       });
   }
