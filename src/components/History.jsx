@@ -21,7 +21,12 @@ class History extends Component {
   getItems() {
     return this.props.data.map((item) => (
       <div key={item}>
-        <p href="" id={item + "Link"} onClick={() => this.handleClick(item)}>
+        <p
+          class="historyLink"
+          href=""
+          id={item + "Link"}
+          onClick={() => this.handleClick(item)}
+        >
           {data[item].name}
         </p>
       </div>
