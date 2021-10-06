@@ -9,7 +9,7 @@ class History extends Component {
   render() {
     return (
       <div>
-        <h3>Historia wyszukiwania:</h3>
+        <h3 id="searchHistoryHeader">Historia wyszukiwania:</h3>
         {this.getItems()}
       </div>
     );
@@ -22,7 +22,7 @@ class History extends Component {
     return this.props.data.map((item) => (
       <div key={item}>
         <p
-          class="historyLink"
+          className="historyLink"
           href=""
           id={item + "Link"}
           onClick={() => this.handleClick(item)}

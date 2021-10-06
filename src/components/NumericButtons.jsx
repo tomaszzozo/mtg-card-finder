@@ -9,7 +9,7 @@ class NumericButtons extends Component {
   }
   render() {
     return (
-      <div>
+      <div id="numericButtonsContainer">
         <input
           type="button"
           className="numericButtons"
