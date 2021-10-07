@@ -183,7 +183,7 @@
     },
     "first strike": {
         "name" : "First strike",
-        "img" : "",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=479643&type=card",
         "text" : "Jednostka z First strike podczas fazy ataku zadaje obrażenia jako pierwsza zamiast zadawać obrażenia jednocześnie z jednostką broniącą się."
     },
     "162264": {
@@ -386,5 +386,101 @@
         "name" : "Pigment Storm",
         "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=513588&type=card",
         "text" : "Ta karta zadaje 5 obrażeń wybranej istocie. Nadliczbowe obrażenia są zadawane właścicielowi tej istoty."
-    }  
+    },
+
+    "227264": {
+        "name" : "Angrath, Captain of Chaos",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=461154&type=card",
+        "text" : "Istoty, które kontrolujesz, mają Menace.\n-2: Amass 2."
+    },
+    "amass": {
+        "name" : "Amass X",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=461154&type=card",
+        "text" : "Połóż X żetonów +1/+1 na Armii (typ jednostki), którą kontrolujesz. Jeżeli nie kontrolujesz Armii, wpierw stwórz czarny 0/0 token istoty 'Zombie Army'."
+    },
+    "215280": {
+        "name" : "Ogre Siegebreaker",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=466969&type=card",
+        "text" : "2xdowolna mana + 1xczarna mana + 1xczerwona mana: Zniszcz wybraną istotę, której zostały zadane obrażenia w tej turze."
+    },
+    "109275": {
+        "name" : "Illustrious Historian",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=513586&type=card",
+        "text" : "5xdowolna mana + wygnaj tę kartę z cmentarza: Stwórz ztapowany czerowono-biały 3/2 token istoty 'Spirit'."
+    },
+    "138274": {
+        "name" : "Tentative Connection",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=479658&type=card",
+        "text" : "Ta karta kosztuje 3 many mniej jeżeli kontrolujesz istotę z Menace.\nZyskaj kontrolę nad wybrana istotą do końca tury. Odtapuj tę istotę. Zyskuje ona Haste do końca tury."
+    },
+    "123274": {
+        "name" : "Heightened Reflexes",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=479643&type=card",
+        "text" : "Wybrana istota zyskuje +1/+0 oraz First strike do końca tury."
+    },
+    "090275": {
+        "name" : "Unwilling Ingredient",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=513567&type=card",
+        "text" : "Menace.\n2xdowolna mana + 1xczarna mana + wygnaj tę kartę ze swojego cmentarza: Dobierz kartę, strać życie."
+    },
+    "082256": {
+        "name" : "Plague Wight",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=457226&type=card",
+        "text" : "Zawsze kiedy ta karta zostaje zablokowana, każda z blokujących ją istot zyskuje -1/-1 do końca tury."
+    },
+    "230274": {
+        "name" : "Sonorous Howlbonder",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=479750&type=card",
+        "text" : "Menace.\nWszystkie twoje istoty z Menace nie mogą być zablokowane, chyba że przez 3 istoty lub więcej."
+    },
+    "093264": {
+        "name" : "Herald of the Dreadhorde",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=461020&type=card",
+        "text" : "Kiedy ta karta umiera, Amass 2."
+    },
+    "164254": {
+        "name" : "Wrap in Flames",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=476415&type=card",
+        "text" : "Ta karta zadaje 1 obrażenie maksymalnie trzem wybranym istotom. Te istoty nie mogą blokować w tej turze."
+    },
+    "116254": {
+        "name" : "Temple Thief",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=476367&type=card",
+        "text" : "Ta karta nie może być blokowana przez zaczarowane jednostki lub jednostki o typie Enchantment."
+    },
+    "198259": {
+        "name" : "Rakdos Roustabout",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=457342&type=card",
+        "text" : "Kiedy ta karta zostaje zablokowana zadaje 1 obrażenie planeswalkerowi którego atakuje."
+    },
+    "196259": {
+        "name" : "Rafter Demon",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=457340&type=card",
+        "text" : "Spectacle 3xmana zwykła + 1xmana czarna + 1xmana czerwona.\nKiedy ta karta wchodzi na pole bitwy, jeżeli jego koszt Spectacle został opłacony, każdy z graczy pozbywa się karty z ręki."
+    },
+    "spectacle": {
+        "name" : "Spectacle X",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=457340&type=card",
+        "text" : "Możesz zagrać zaklęcie ze koszt X zamiast za zwykły koszt many tej karty jeżeli przeciwnik stracił życie w tej turze."
+    },
+    "111259": {
+        "name" : "Rubblebelt Recluse",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=469887&type=card",
+        "text" : "Ta karta atakuje podczas każdej fazy ataku jeżeli tylko jest to możliwe."
+    },
+    "093259": {
+        "name" : "Burn Bright",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=485457&type=card",
+        "text" : "Istoty, które kontrolujesz, zyskują +2/+0 do końca tej tury."
+    },
+    "096264": {
+        "name" : "Lazotep Reaver",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=461023&type=card",
+        "text" : "Kiedy ta karta wchodzi na pole bitwy, Amass 1."
+    },
+    "084259": {
+        "name" : "Rakdos Trumpeter",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=457228&type=card",
+        "text" : "Menace.\n3xdowolna mana + 1xczerwona mana: Ta karta zyskuje +2/+0 do końca tej tury."
+    }
 }
