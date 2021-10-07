@@ -482,5 +482,142 @@
         "name" : "Rakdos Trumpeter",
         "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=457228&type=card",
         "text" : "Menace.\n3xdowolna mana + 1xczerwona mana: Ta karta zyskuje +2/+0 do końca tej tury."
+    },
+
+    "083264": {
+        "name" : "Davriel, Rogue Shadowmage",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=461010&type=card",
+        "text" : "Na początek fazy upkeep każdego przeciwnika, jeżeli ten gracz ma 1 lub 0 kart w swojej ręce, ta karta zadaje temu graczowi 2 obrażenia.\n-1: wybrany gracz odrzuca kartę z ręki."
+    },
+    "096254": {
+        "name" : "Fruit of Tizerus",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=476347&type=card",
+        "text" : "Wybrany gracz traci 2 życia. Escape- 3xdowolna mana + 1xczarna mana + wygnaj trzy inne karty ze swojego cmentarza."
+    },
+    "upkeep": {
+        "name" : "Faza upkeep",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=461010&type=card",
+        "text" : "Faza gry mająca miejsce zanim gracz dobierze kartę i untapuje swoje karty. Jest to więc sam początek tury gracza."
+    },
+    "escape": {
+        "name" : "Escape X",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=476347&type=card",
+        "text" : "Możesz zagrać tę kartę ze swojego cmentarza za jej koszt X."
+    },
+    "077274": {
+        "name" : "Bushmeat Poacher",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=479597&type=card",
+        "text" : "1xdowolna mana + tapnij tę kartę + poświęć inną istotę: zyskujesz życie równe życiu poświęconej jednostki. Dobierz kartę."
+    },
+    "093274": {
+        "name" : "Insatiable Hemophage",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=479613&type=card",
+        "text" : "Mutate: 2xdowolna mana + 1xczarna mana.\nDeatchtouch.\nKiedy ta istota mutuje, każdy przeciwnik traci X życia a ty zyskujesz X życia, gdzie X oznacza ile razy dana jednostka mutowała."
+    },
+    "077264": {
+        "name" : "Banehound",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=461004&type=card",
+        "text" : "Lifelink, Haste."
+    },
+    "lifelink": {
+        "name" : "Lifelink",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=461004&type=card",
+        "text" : "Kiedy ta istota zadaje obrażenia ty zyskujesz tyle samo życia, ile obrażeń udało się jej w sumie zadać."
+    },
+    "mutate": {
+        "name" : "Mutate X",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=479613&type=card",
+        "text" : "Możesz zagrać tę jednostkę za koszt X. Wtedy połóż ją nad/pod twoją inną jednostką. Wybrana jednostka złożona teraz z kilku kart zachowuje umiejętności wszystkich kart oraz atak/obronę karty najbardziej na wierzchu."
+    },
+    "106254": {
+        "name" : "Mire's Grasp",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=476357&type=card",
+        "text" : "Zaczaruj istotę.\nZaczarowana istota zyskuje -3/-3."
+    },
+    "075275": {
+        "name" : "Leech Fanatic",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=513552&type=card",
+        "text" : "Dopóki jest twoja tura, ta karta posiada Lifelink."
+    },
+    "084264": {
+        "name" : "Davriel's Shadowfugue",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=461011&type=card",
+        "text" : "Wybrany gracz odrzuca dwie karty z ręki i traci 2 życia."
+    },
+    "094274": {
+        "name" : "Lurking Deadeye",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=479614&type=card",
+        "text" : "Flash.\nKiedy ta karta wchodzi na pole bitwy, zniszcz wybraną istotę której zostały zadane obrażenia w tej turze."
+    },
+    "108264": {
+        "name" : "Toll of the Invasion",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=461035&type=card",
+        "text" : "Wybrany przeciwnik odsłania swoją rękę. Wybierz z niej kartę, która nie jest lądem. Ten przeciwnik pozbywa się tej karty.\nAmass 1."
+    },
+    "076274": {
+        "name" : "Boot Nipper",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=479596&type=card",
+        "text" : "Ta karta wchodzi do gry z wybraną przez Ciebie umiejętnością: Deathtouch lub Lifelink."
+    },
+    "077275": {
+        "name" : "Mage Hunters' Onslaught",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=513554&type=card",
+        "text" : "Zniszcz wybraną istotę lub planeswalkera.\nKiedy istota blokuje w tej turze, jej właściciel traci 1 życie."
+    },
+    "094264": {
+        "name" : "Kaya's Ghostform",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=461021&type=card",
+        "text" : "Zaczaruj jednostkę lub planeswalkera, którego kontrolujesz.\nKiedy zaczarowana karta umiera lub zostaje wygnana, zwróć zaczarowaną kartę z cmentarza na pole bitwy pod swoją kontrolą."
+    },
+    "103303": {
+        "name" : "Tourach's Canticle",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=522179&type=card",
+        "text" : "Wybrany przeciwnik ujawnia swoją rękę. Wybierz z niej kartę. Przeciwnik pozbywa się tej karty, a następnie pozbywa się innej losowej karty z ręki."
+    },
+    "086274": {
+        "name" : "Duskfang Mentor",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=479606&type=card",
+        "text" : "Kiedy ta karta wchodzi na pole bitwy, daj umiejętność Lifelink karcie którą kontrolujesz i która nie ma typu Human.\n1xczarna mana + tapuj tę kartę: połóż +1/+1 na istocie z Lifelink, którą kontrolujesz."
+    },
+    "076264": {
+        "name" : "Aid the Fallen",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=461003&type=card",
+        "text" : "Wybierz jeden lub obydwa efekty:\n- zwróć wybraną istotę z twojego cmentarza do ręki\n- zwróć wybranego planeswalkera z twojego cmentarza do ręki"
+    },
+    "103280": {
+        "name" : "Gravedigger",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=466857&type=card",
+        "text" : "Kiedy ta karta wchodzi na pole bitwy, możesz zwrócić wybraną istotę ze swojego cmentarza do ręki."
+    },
+    "107274": {
+        "name" : "Defiant Bloodlord",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=519177&type=card",
+        "text" : "Flying.\nZa każdym razem, kiedy przeciwnik traci życie, ty zyskujesz tyle samo życia."
+    },
+    "078259": {
+        "name" : "Noxious Groodion",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=457222&type=card",
+        "text" : "Deathtouch."
+    },
+    "087259": {
+        "name" : "Thirsting Shade",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=457231&type=card",
+        "text" : "Lifelink.\n2xdowolna mana + 1xczarna mana: ta karta zyskuje +1/+1 do końca tej tury."
+    },
+    "079274": {
+        "name" : "Cavern Whisperer",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=479599&type=card",
+        "text" : "Mutate 3xdowolna mana + 1xczarna mana.\nMenace.\nZa każdym razem, kiedy ta istota mutuje, każdy z przeciwników pozbywa się karty z ręki."
+    },
+    "081264": {
+        "name" : "Charity Extractor",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=461008&type=card",
+        "text" : "Lifelink."
+    },
+    "087269": {
+        "name" : "Festive Funeral",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=473049&type=card",
+        "text" : "Wybrana istota zyskuje -X/-X do końca tej tury, gdzie X oznacza liczbę kart na twoim cmentarzu."
     }
+
 }
