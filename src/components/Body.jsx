@@ -26,7 +26,7 @@ class Body extends Component {
   render() {
     return (
       <div>
-        <h1>MTG assistant</h1>
+        <h1 className="title is-1">MTG assistant</h1>
         <input
           id={searchBoxId}
           placeholder="Kod lub zdolność karty"
@@ -35,6 +35,7 @@ class Body extends Component {
         <br></br>
         <input
           id={searchBtnId}
+          className="button is-large"
           type="button"
           value="Szukaj"
           onClick={() =>
