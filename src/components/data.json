@@ -618,6 +618,92 @@
         "name" : "Festive Funeral",
         "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=473049&type=card",
         "text" : "Wybrana istota zyskuje -X/-X do końca tej tury, gdzie X oznacza liczbę kart na twoim cmentarzu."
+    },
+
+    "164264": {
+        "name" : "Jiang Yanggu, Wildcrafter",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=461091&type=card",
+        "text" : "Wszystkie istoty z licznikiem +1/+1, które kontrolujesz, zyskują umiejętność: 'Tap: zyskaj 1xdowolna mana.\n-1: Połóż +1/+1 na wybranej jednostce."
+    },
+    "146274": {
+        "name" : "Bristling Boar",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=479666&type=card",
+        "text" : "Ta karta nie może być blokowana przez więcej niż jedną istotę."
+    },
+    "143274": {
+        "name" : "Almighty Brushwagg",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=479663&type=card",
+        "text" : "Trample.\n3xdowolna mana + 1xzielona mana: ta karta zyskuje +3/+3 do końca tury."
+    },
+    "189280": {
+        "name" : "Pulse of Murasa",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=519237&type=card",
+        "text" : "Zwróć wybraną istotę lub wybrany ląd z cmentarza do ręki jego właściciela. Zyskujesz 6 życia."
+    },
+    "195280": {
+        "name" : "Silverback Shaman",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=497775&type=card",
+        "text" : "Trample.\nKiedy ta karta umiera, dobierz kartę."
+    },
+    "174274": {
+        "name" : "Titanoth Rex",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=482376&type=card",
+        "text" : "Trample.\nCycling 1xdowolna mana + 1xzielona mana.\nKiedy używasz Cycle tej karty, inna wybrana istota kontrolowana przez Ciebie zyskuje Trample."
+    },
+    "cycling": {
+        "name" : "Cycling X",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=482376&type=card",
+        "text" : "Zapłać X oraz usuń tę kartę, dobierz kartę."
+    },
+    "160274": {
+        "name" : "Humble Naturalist",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=479680&type=card",
+        "text" : "Tap: dodaj 1xdowolna mana. Wydaj tę manę wyłącznie na zagranie istoty."
+    },
+    "170274": {
+        "name" : "Ram Through",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=479690&type=card",
+        "text" : "Wybierz swoją jednostkę, a następnie jednostkę przeciwnika. Jednostka przeciwnika otrzymuje tyle obrażeń, ile siły ataku ma wybrana twoja jednostka. Jeżeli twoja wybrana jednostka ma trample, nadliczbowe obrażenia przechodzą na atakowanego gracza."
+    },
+    "194254": {
+        "name" : "Plummet",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=534982&type=card",
+        "text" : "Zniszcz wybraną istotę z Flying."
+    },
+    "185269": {
+        "name" : "Yorvo, Lord of Garenbrig",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=473147&type=card",
+        "text" : "Ta karta wchodzi do gry z czterema licznikami +1/+1.\nZa każdym razem, kiedy do gry wchodzi kontrolowana przez Ciebie zielona jednostka, ta karta zyskuje +1/+1. Jeżeli ta jednostka ma więcej siły ataku niż ta karta, połóż na niej kolejny licznik +1/+1."
+    },
+    "210274": {
+        "name" : "Titanic Growth",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=485533&type=card",
+        "text" : "Wybrana istota zyskuje +4/+4 do końca tury."
+    },
+    "297": {
+        "name" : "Treeshaker Chimera",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=479055&type=card",
+        "text" : "Wszystkie istoty które mają możliwość zablokować tę kartę robią to.\nKiedy ta karta umiera, dobierz trzy karty."
+    },
+    "143259": {
+        "name" : "Stony Strength",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=457287&type=card",
+        "text" : "Połóż licznik +1/+1 na wybranej kontrolowanej istocie. Untapuj tę istotę."
+    },
+    "207274": {
+        "name" : "Snarespinner",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=485530&type=card",
+        "text" : "Reach.\nKiedy ta karta blokuje istotę z Flying dostaje +2/+0 do końca tury."
+    },
+    "296": {
+        "name" : "Ironscale Hydra",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=479054&type=card",
+        "text" : "Jeżeli jakaś istota zadałaby obrażenia tej karcie, zignoruj te obrażenia i połóż licznik +1/+1 na tej karcie."
+    },
+    "148274": {
+        "name" : "Colossification",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=479668&type=card",
+        "text" : "Kiedy ta karta wchodzi na pole bitwy, tapnij zaczarowaną istotę.\nZaczarowana istota zyskuje +20/+20."
     }
 
 }
