@@ -1,0 +1,65 @@
+#logo {
+    width:224px;
+    margin-top: 200px;
+    height: 80px;
+    object-fit: cover;
+}
+
+#title {
+    color: white;
+    height: 50px;
+    display: flex;
+    align-items: top;
+    justify-content: center;
+    font-family: "Beleren Bold";
+    font-weight: normal;
+    padding-bottom: 290px;
+}
+
+#ribbon {
+    background-color: #191919;
+}
+
+body {
+    background: rgb(46,46,46);
+    background: -moz-linear-gradient(52deg, rgba(46,46,46,1) 19%, rgba(83,83,83,1) 44%, rgba(29,29,29,1) 80%);
+    background: -webkit-linear-gradient(52deg, rgba(46,46,46,1) 19%, rgba(83,83,83,1) 44%, rgba(29,29,29,1) 80%);
+    background: linear-gradient(52deg, rgba(46,46,46,1) 19%, rgba(83,83,83,1) 44%, rgba(29,29,29,1) 80%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#2e2e2e",endColorstr="#1d1d1d",GradientType=1);
+    min-height: 1080px;
+    font-size: 16px;
+}
+
+#searchBox {
+    width: 70%;
+    background-color: gray;
+    margin-top: 10px;
+    border-color: black;
+    border-radius: 0%;
+    font-size: 18px;
+    height: 60px;
+}
+
+#searchBtn {
+    width: 40%;
+    margin-top: 20px;
+    height: 72px;
+    font-family: "Beleren Bold";
+    font-weight: normal;
+    font-size: 22px;
+    background-color: rgb(56, 56, 56);
+    border-radius: 0%;
+    border-color: black;
+    color: white;
+    font-style: italic;
+    margin-bottom: 0px;
+}
+
+.numericButtons {
+    width: 60px;
+    height: 60px;
+    margin: 12px;
+    font-size: 20px;
+    background-color: lightgray;
+    font-family: "Beleren Bold";
+}

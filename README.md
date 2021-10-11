@@ -10,11 +10,11 @@
 
 ## Introduction
 
-This project's aim is to provide a website for my friends to check Magic the Gathering cards abilities and effects translated and explained in polish by myself.
+This project's aim is to provide a website for my friends to check Magic the Gathering cards abilities and effects translated and explained in polish. I translate all the cards myself, because they contain very specific wording that automatic translators could potentially not pick up.
 
 ## Test data
 
-You can input one of the abilities to search for their translation:
+You can input one of these abilities to search for their translation:
 
 - scry
 - bushido
@@ -31,12 +31,13 @@ If you want to play around more, you can find all data in /src/components/data.j
 
 ## Technology
 
-- React JS framework
+- React JS
 - HTML
 - CSS
-- Bulma framework
-- Plain javascript
+- Bulma
+- Javascript
 - Visual Studio Code
+- Filezilla
 
 ## Launch
 

@@ -26,16 +26,26 @@ class Body extends Component {
   render() {
     return (
       <div>
-        <h1 className="title is-1">MTG assistant</h1>
+        <div id="ribbon">
+          <img
+            id="logo"
+            src="//media.wizards.com/2018/images/magic/gatherer/magic_logo.png"
+            alt="planeswalker symbol"
+          />
+          <h1 className="title is-3" id="title">
+            Assistant
+          </h1>
+        </div>
         <input
           id={searchBoxId}
+          className="input is-3"
           placeholder="Kod lub zdolność karty"
           type="text"
         ></input>
         <br></br>
         <input
           id={searchBtnId}
-          className="button is-large"
+          className="button is-3"
           type="button"
           value="Szukaj"
           onClick={() =>
