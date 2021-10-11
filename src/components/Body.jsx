@@ -67,7 +67,7 @@ class Body extends Component {
         <input
           id="clearHistoryBtn"
           type="button"
-          value="Wyczyść historię"
+          value="Skasuj historie"
           onClick={() => this.clearHistory()}
         />
 

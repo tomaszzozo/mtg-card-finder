@@ -830,5 +830,10 @@
         "name" : "Forbidden Friendship",
         "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=479639&type=card",
         "text" : "Stwórz czerwony token 1/1 istoty typu Dinosaur z Haste oraz biały token 1/1 istoty typu Human."
+    },
+    "hexproof": {
+        "name" : "Hexproof",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=476485&type=card",
+        "text" : "Karta z Hexproof nie może być celem zdolność i umiejętności kart przeciwnika."
     }
 }

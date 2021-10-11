@@ -2,7 +2,7 @@ import { Component } from "react";
 
 function NewlineText(props) {
   return props.text.split("\n").map((str) => (
-    <p className="abilityText" key={str}>
+    <p className="abilityLine" key={str}>
       {str}
     </p>
   ));
@@ -18,8 +18,10 @@ class Card extends Component {
       <div>
         <h2 id="cardTitle"> {this.props.header}</h2>
         <img id="cardImage" src={this.props.image} alt=""></img>
-        <h3 id="abilityHeader">{this.props.text === "" ? "" : "Zdolności"}</h3>
-        <NewlineText text={this.props.text}></NewlineText>
+        <h3 id="abilityHeader">{this.props.text === "" ? "" : "Opis"}</h3>
+        <div id="abilityText">
+          <NewlineText text={this.props.text}></NewlineText>
+        </div>
       </div>
     );
   }

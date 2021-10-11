@@ -63,3 +63,69 @@ body {
     background-color: lightgray;
     font-family: "Beleren Bold";
 }
+
+#cardTitle {
+    font-family: "Beleren Bold";
+    font-size: 20px;
+    color: white;
+    margin-top: 22px;
+}
+
+#cardImage {
+    width: 240px;
+    margin-bottom: 20px;
+}
+
+#abilityHeader {
+    font-family: "Beleren Bold";
+    color: white;
+    font-size: 20px;
+}
+
+#abilityText {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.abilityLine {
+    color:white;
+    font-size: 16px;
+    max-width: 240px;
+}
+
+#clearHistoryBtn {
+    width: 40%;
+    margin-top: 20px;
+    height: 42px;
+    font-family: "Beleren Bold";
+    font-weight: normal;
+    font-size: 14px;
+    background-color: rgb(56, 56, 56);
+    border-radius: 0%;
+    border-color: black;
+    color: white;
+    font-style: italic;
+    margin-bottom: 10px;
+}
+
+#searchHistoryHeader {
+    color: white;
+    font-family: "Beleren Bold";
+    font-size: 18px;
+    margin-bottom: 5px;
+
+}
+
+.historyLink {
+    font-size: 16px;
+    text-decoration: underline;
+    font-style: italic;
+    color: white;
+}
+
+
+.historyLink:hover{
+    color: lightgray;
+    margin: 2px;
+}
