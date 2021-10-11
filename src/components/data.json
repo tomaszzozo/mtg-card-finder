@@ -589,7 +589,7 @@
         "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=466857&type=card",
         "text" : "Kiedy ta karta wchodzi na pole bitwy, możesz zwrócić wybraną istotę ze swojego cmentarza do ręki."
     },
-    "107274": {
+    "142": {
         "name" : "Defiant Bloodlord",
         "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=519177&type=card",
         "text" : "Flying.\nZa każdym razem, kiedy przeciwnik traci życie, ty zyskujesz tyle samo życia."
@@ -704,6 +704,131 @@
         "name" : "Colossification",
         "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=479668&type=card",
         "text" : "Kiedy ta karta wchodzi na pole bitwy, tapnij zaczarowaną istotę.\nZaczarowana istota zyskuje +20/+20."
-    }
+    },
 
+    "233264": {
+        "name" : "Nahiri, Storm of Stone",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=461160&type=card",
+        "text" : "Dopóki jest twoja tura, istoty które kontrolujesz mają First strike a umiejętności Equip kosztują 1xdowolnej many mniej.\n-X: ta karta zadaje X obrażeń wybranej ztapowanej istocie."
+    },
+    "202259": {
+        "name" : "Swathcutter Giant",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=452952&type=card",
+        "text" : "Vigilance.\nKiedy ta karta atakuje, zadaje 1 obrażenie każdej jednostce broniącego się gracza."
+    },
+    "vigilance": {
+        "name" : "Vigilance",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=452952&type=card",
+        "text" : "Nie musisz tapować karty aby nią zaatakować."
+    },
+    "141264": {
+        "name" : "Raging Kronch",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=461068&type=card",
+        "text" : "Ta karta nie może atakować sama."
+    },
+    "134264": {
+        "name" : "Invading Manticore",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=461061&type=card",
+        "text" : "Kiedy ta karta wchodzi do gry, Amass 2."
+    },
+    "209259": {
+        "name" : "Truefire Captain",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=452959&type=card",
+        "text" : "Mentor.\nKiedy ta karta otrzymuje obrażenia, zadaje tyle samo obrażeń wybranemu graczowi."
+    },
+    "mentor": {
+        "name" : "Mentor",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=452959&type=card",
+        "text" : "Kiedy ta karta atakuje, połóż +1/+1 na wybranej atakującej istocie z mniejszą siłą ataku."
+    },
+    "187259": {
+        "name" : "Legion Guildmage",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=452937&type=card",
+        "text" : "5xdowolna mana + 1xczerwona mana: ta karta zadaje 3 obrażenia każdemu przeciwnikowi.\n2xdowolna mana + 1xbiała mana + ztapuj tę kartę: ztapuj inną wybraną istotę."
+    },
+    "007280": {
+        "name" : "Battalion Foot Soldier",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=466761&type=card",
+        "text" : "Kiedy ta karta wchodzi na pole bitwy, możesz przeszukać swoją talię i wyjąć z niej do twojej ręki wybraną ilość kopii tej karty. Przetasuj talię."
+    },
+    "022264": {
+        "name" : "Makeshift Battalion",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=485349&type=card",
+        "text" : "Kiedy ta i przynajmniej dwie inne karty atakują, połóż na tej karcie +1/+1."
+    },
+    "025259": {
+        "name" : "Syndicate Messenger",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=457169&type=card",
+        "text" : "Flying.\nAfterlife 1."
+    },
+    "afterlife": {
+        "name" : "Afterlife X",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=457169&type=card",
+        "text" : "Kiedy ta jednostka ginie, stwórz X/X biało czarny token istoty typu Spirit z Flying."
+    },
+    "014274": {
+        "name" : "Garrison Cat",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=479534&type=card",
+        "text" : "Kiedy ta karta ginie, stwórz 1/1 biały token istoty typu Human Soldier."
+    },
+    "029280": {
+        "name" : "Master Splicer",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=489695&type=card",
+        "text" : "Kiedy ta karta wchodzi do gry, stwórz token 3/3 bez koloru istoty typu Golem artifact.\nGolemy, które kontrolujesz, zyskują +1/+1."
+    },
+    "030259": {
+        "name" : "Watchful Giant",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=457174&type=card",
+        "text" : "Kiedy ta karta wchodzi do gry, stwórz token 1/1 białej istoty typu Human."
+    },
+    "196303": {
+        "name" : "Foundry Helix",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=522272&type=card",
+        "text" : "Jako dodatkowy koszt tej karty, poświęć jakąś kartę.\nTa karta zadaje 4 obrażenia dowolnemu celowi. Jeżeli cel był artefatkem, zyskujesz 4 życia."
+    },
+    "208274": {
+        "name" : "Angelic Captain",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401811&type=card",
+        "text" : "Flying.\nKiedy ta karta atakuje, dostaje +1/+1 do końca tury za każdego innego atakującego sojusznika."
+    },
+    "112269": {
+        "name" : "Barge In",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=473074&type=card",
+        "text" : "Wybrana atakująca jednostka zyskuje +2/+2 do końca tury. Każda atakująca jednostka typu nie Human zyskuje Trample do końca tury."
+    },
+    "107274": {
+        "name" : "Blazing Volley",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=479627&type=card",
+        "text" : "Ta karta zadaje 1 obrażenie każdej istocie twojego przeciwnika."
+    },
+    "219249": {
+        "name" : "Prowler's Helm",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=373626&type=card",
+        "text" : "Istota wyposażona w ten przedmiot nie może być blokowana, chyba że przez Walls.\nEquip: 2xdwolona mana."
+    },
+    "equip": {
+        "name" : "Equip X",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=373626&type=card",
+        "text" : "Koszt założenia przedmiotu. Bez jego zapłacenia przedmiot po prostu leży na polu bitwy. Przedmiot zostaje na polu bitwy po zabiciu jednostki i można go dać innej jednostce."
+    },
+    "119269": {
+        "name" : "Crystal Slipper",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=473081&type=card",
+        "text" : "Istota wyposażona w ten przedmiot dostaje +1/+0 i ma Haste.\nEquip: 1xdowolna mana."
+    },
+    "134303": {
+        "name" : "Lightning Spear",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=522210&type=card",
+        "text" : "Istota wyposażona w ten przedmiot dostaje +1/+0 i ma Trample.\n2xdowlna mana + 1xczerwona mana + poświęć tę kartę: zadaje 3 obrażenia dowolnemu celowi.\nEquip: 1xdowolna mana."
+    },
+    "234254": {
+        "name" : "Mirror Shield",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=476485&type=card",
+        "text" : "Istota wyposażona w ten przedmiot dostaje +0/+2 i ma Hexproof i zyskuje zdolność 'Kiedy istota z Deathtouch blokuje lub jest blokowana przez tę istotę, zniszcz tę istotę z Deathtouch.'.\nEquip: 2xdowolna mana."
+    },
+    "119274": {
+        "name" : "Forbidden Friendship",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=479639&type=card",
+        "text" : "Stwórz czerwony token 1/1 istoty typu Dinosaur z Haste oraz biały token 1/1 istoty typu Human."
+    }
 }
