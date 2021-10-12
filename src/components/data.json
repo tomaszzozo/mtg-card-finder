@@ -835,5 +835,10 @@
         "name" : "Hexproof",
         "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=476485&type=card",
         "text" : "Karta z Hexproof nie może być celem zdolność i umiejętności kart przeciwnika."
+    },
+    "deathtouch": {
+        "name" : "Deathtouch",
+        "img" : "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=457222&type=card",
+        "text" : "Karta z Deathtouch jeżeli zada obrażenia istocie to zadaje śmiertelny cios, nieważne ile obrażeń zadała i ile życia ma dana jednostka."    
     }
 }

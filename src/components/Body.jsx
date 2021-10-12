@@ -68,6 +68,7 @@ class Body extends Component {
           id="clearHistoryBtn"
           type="button"
           value="Skasuj historie"
+          className="button"
           onClick={() => this.clearHistory()}
         />
 
